@@ -28,5 +28,8 @@ Rustlings做到L4
 
 目标:
 
-1. 完成rustlings L5
-2. 完成java作业
+完成rustlings L5
+
+成果:
+
+完成L并阅读圣经相关部分
