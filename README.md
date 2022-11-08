@@ -39,3 +39,16 @@ Rustlings做到L4
 目标:
 
 完成rustlings L6
+
+成果:
+
+rustlings未做
+
+完成java作业
+
+# 2022/11/9
+
+目标：
+
+昨天的目标
+
