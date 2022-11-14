@@ -88,4 +88,18 @@ rustlings未做
 
 目标:
 
-完成java作业、python作业
+完成java作业、python课设作业
+
+成果：
+
+python代码完成
+
+java作业比我想象的复杂很多
+
+裂开这几天都没碰os了
+
+# 2022/11/15
+
+目标：
+
+结束java、python
